@@ -8,4 +8,8 @@ public class shadow {
     public static void main(String[] args) {
         System.out.println("hello gitHub!");
     }
+
+    public void  demo(){
+
+    }
 }
