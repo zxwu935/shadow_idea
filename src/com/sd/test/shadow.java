@@ -6,6 +6,6 @@ public class shadow {
     private String uname = "zhangsan";
 
     public static void main(String[] args) {
-
+        System.out.println("hello gitHub!");
     }
 }
