@@ -10,6 +10,6 @@ public class shadow {
     }
 
     public void  demo(){
-
+        System.out.println("ssssss");
     }
 }
