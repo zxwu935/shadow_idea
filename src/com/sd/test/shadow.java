@@ -11,5 +11,6 @@ public class shadow {
 
     public void  demo(){
         System.out.println("ssssss");
+        System.out.println("aaaaa");
     }
 }
